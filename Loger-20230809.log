@@ -1,0 +1,12 @@
+2023-08-09 12:13:06.402 +05:30 [INF] User profile is available. Using 'C:\Users\aesiv\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-08-09 12:13:06.509 +05:30 [INF] Creating key {79785a61-64d0-4536-8938-5bb52f80c825} with creation date 2023-08-09 06:43:06Z, activation date 2023-08-09 06:43:06Z, and expiration date 2023-11-07 06:43:06Z.
+2023-08-09 12:13:06.526 +05:30 [INF] Writing data to file 'C:\Users\aesiv\AppData\Local\ASP.NET\DataProtection-Keys\key-79785a61-64d0-4536-8938-5bb52f80c825.xml'.
+2023-08-09 12:13:06.598 +05:30 [INF] Now listening on: http://localhost:5049
+2023-08-09 12:13:06.602 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-09 12:13:06.602 +05:30 [INF] Hosting environment: Development
+2023-08-09 12:13:06.602 +05:30 [INF] Content root path: C:\Users\aesiv\Desktop\mvctravel\travelmvc\Travel_Reimbursement
+2023-08-09 12:13:56.151 +05:30 [INF] User profile is available. Using 'C:\Users\aesiv\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-08-09 12:13:56.217 +05:30 [INF] Now listening on: http://localhost:5049
+2023-08-09 12:13:56.219 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-09 12:13:56.220 +05:30 [INF] Hosting environment: Development
+2023-08-09 12:13:56.220 +05:30 [INF] Content root path: C:\Users\aesiv\Desktop\mvctravel\travelmvc\Travel_Reimbursement

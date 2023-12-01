@@ -1,0 +1,5 @@
+2023-08-02 19:32:17.493 +05:30 [INF] User profile is available. Using 'C:\Users\aesiv\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-08-02 19:32:17.675 +05:30 [INF] Now listening on: http://localhost:5049
+2023-08-02 19:32:17.679 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-02 19:32:17.679 +05:30 [INF] Hosting environment: Development
+2023-08-02 19:32:17.679 +05:30 [INF] Content root path: C:\Users\aesiv\Desktop\mvctravel\travelmvc\Travel_Reimbursement
